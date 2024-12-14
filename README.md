@@ -12,7 +12,9 @@ Stacks usadas:
 
 ### Projeto da [API](https://github.com/mariofelesdossantosjunior/nearby-api)
 
-![image](https://github.com/user-attachments/assets/b9727049-3e78-49b3-bfb3-7b8b1908bc7f)
+![image](https://github.com/user-attachments/assets/fbde03da-6203-4564-9e95-080d5ebcb1eb)
 
-![image](https://github.com/user-attachments/assets/5c3f8d8d-2696-425a-98f6-90063c878605)
+![image](https://github.com/user-attachments/assets/e5d32648-f9d9-428c-a736-280a7b5ccc47)
+
+
 
